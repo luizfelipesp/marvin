@@ -1,9 +1,10 @@
 function nomeDeVolta() {
   console.log("Marvin");
+
   return "O androide paranoide";
 }
 
-console.log(nomeDeVolta())
+console.log(nomeDeVolta());
 
 // Expected output:
 // Marvin
