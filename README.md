@@ -31,7 +31,7 @@ A partir da Fase 1, cada etapa introduz novos desafios utilizando os conheciment
 
 ## **Guia de Instalação**
 
-Se você quiser rodar o projeto, vai precisar do **Nodejs** apenas e um caminho eficiente é usando o gerenciador de versões [asdf](https://asdf-vm.com/).
+Se você quiser rodar o projeto, um caminho eficiente é usando o gerenciador de versões [asdf](https://asdf-vm.com/) para instalar o **Nodejs**.
 
 ### **Node.js**
 
